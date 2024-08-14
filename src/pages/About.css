@@ -1,0 +1,109 @@
+body {
+  background: linear-gradient(to right,#EBF4F6, #37B7C3);
+}
+
+.about-page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+.about-page h1 {
+  font-size: 38px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.about-page h2 {
+  font-size: 30px;
+  padding-bottom: 40px;
+}
+
+.app-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+
+.app-info p {
+  font-size: 20px;
+  line-height: 1.5;
+  margin-bottom: 30px;
+  text-align: left;
+  flex: 1;
+  margin-right: 40px;
+}
+
+.app-info img {
+  max-width: 50%;
+  height: auto;
+}
+
+.app-info img:hover {
+  transform: rotate(10deg) scale(1.1);
+}
+
+.team-members {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.team-member {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.team-member img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+.team-member img:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+}
+
+.team-member h2 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.team-member h3 {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.team-member p {
+  font-size: 14px;
+  color: #071952;
+  text-align: center;
+}
+
+.team-member .social-links {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.team-member .social-links a:hover {
+  color: #0056b3;
+}
+
+.team-member .social-links a:first-child {
+  margin-right: 30px;
+}
+
+.team-member .linkedin-icon,
+.team-member .github-icon {
+  vertical-align: middle;
+  font-size: 30px;
+}

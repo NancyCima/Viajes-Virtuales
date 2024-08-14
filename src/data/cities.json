@@ -1,0 +1,135 @@
+[
+    {
+        "id": 1,
+        "titulo": "New York",
+        "descripcion": "La ciudad que nunca duerme, famosa por su vibrante vida urbana y monumentos icónicos.",
+        "imagen": "../../assets/newyork.jpg",
+        "details": "New York City, la ciudad más poblada de los Estados Unidos, es conocida por su increíble variedad de atracciones turísticas y culturales. En Manhattan, encontrarás lugares icónicos como la Estatua de la Libertad, Times Square y Central Park. El barrio de Brooklyn ofrece una vibrante escena artística y excelentes vistas del horizonte de la ciudad desde el puente de Brooklyn. Además, la ciudad alberga una gran cantidad de museos, como el Museo Metropolitano de Arte y el Museo de Arte Moderno, que presentan colecciones de clase mundial. La vida nocturna en Nueva York es legendaria, con una oferta interminable de restaurantes, teatros y clubes nocturnos.",
+        "puntosDeInteres": [
+            "Estatua de la Libertad",
+            "Times Square",
+            "Central Park",
+            "Museo Metropolitano de Arte",
+            "Puente de Brooklyn"
+        ]
+    },
+    {
+        "id": 2,
+        "titulo": "Paris",
+        "descripcion": "La capital de Francia, conocida por su arte, gastronomía y la Torre Eiffel.",
+        "imagen": "../../assets/paris.jpg",
+        "details": "París, la capital de Francia, es famosa por su belleza y riqueza cultural. La Torre Eiffel, uno de los monumentos más reconocibles del mundo, ofrece vistas impresionantes de la ciudad. El Museo del Louvre, hogar de la Mona Lisa y muchas otras obras maestras, es una visita obligada. Los Campos Elíseos y el Arco del Triunfo son emblemáticos y ofrecen una vibrante vida urbana y oportunidades de compras. El Barrio Latino, con sus calles estrechas y cafés encantadores, es ideal para experimentar la cultura parisina auténtica. No te pierdas una caminata por el río Sena y una visita a la Catedral de Notre-Dame.",
+        "puntosDeInteres": [
+            "Torre Eiffel",
+            "Museo del Louvre",
+            "Campos Elíseos",
+            "Arco del Triunfo",
+            "Catedral de Notre-Dame"
+        ]
+    },
+    {
+        "id": 3,
+        "titulo": "Tokyo",
+        "descripcion": "La metrópoli japonesa famosa por su tecnología avanzada y cultura vibrante.",
+        "imagen": "../../assets/tokio.webp",
+        "details": "Tokio es una metrópoli dinámica que combina la tecnología avanzada con tradiciones ancestrales. El distrito de Shibuya es famoso por su cruce peatonal y su vibrante vida nocturna. En Akihabara, puedes encontrar los últimos avances en electrónica y cultura otaku. La Asakusa y el templo Senso-ji ofrecen una visión del Tokio tradicional, mientras que el mercado Tsukiji es ideal para los amantes de la gastronomía. No te pierdas una visita al elegante barrio de Ginza para compras de lujo y disfruta de las vistas panorámicas desde la Torre de Tokio o el Tokyo Skytree.",
+        "puntosDeInteres": [
+            "Shibuya",
+            "Akihabara",
+            "Templo Senso-ji",
+            "Mercado Tsukiji",
+            "Tokyo Skytree"
+        ]
+    },
+    {
+        "id": 4,
+        "titulo": "Roma",
+        "descripcion": "La histórica capital de Italia, conocida por sus ruinas antiguas y arquitectura renacentista.",
+        "imagen": "../../assets/roma.jpg",
+        "details": "Roma es una ciudad rica en historia y arquitectura. El Coliseo, el Foro Romano y el Panteón son testigos de la antigua grandeza de la ciudad. El Vaticano, con la Basílica de San Pedro y los Museos Vaticanos, es una visita esencial para los interesados en la historia religiosa y el arte. La ciudad también ofrece plazas encantadoras como la Piazza Navona y la Piazza di Spagna, así como una vibrante escena gastronómica con trattorias y pastelerías tradicionales. No te pierdas una caminata por el Trastevere, un barrio bohemio lleno de vida nocturna y restaurantes acogedores.",
+        "puntosDeInteres": [
+            "Coliseo",
+            "Foro Romano",
+            "Panteón",
+            "Vaticano",
+            "Piazza Navona"
+        ]
+    },
+    {
+        "id": 5,
+        "titulo": "Sydney",
+        "descripcion": "Ciudad australiana famosa por su Ópera y la icónica playa Bondi.",
+        "imagen": "../../assets/sydney.webp",
+        "details": "Sydney es conocida por su impresionante Ópera, diseñada por el arquitecto Jørn Utzon, y por su vibrante vida costera. La playa de Bondi es ideal para surfistas y ofrece una animada escena de cafeterías y restaurantes. El puerto de Sydney y el Puente del Puerto ofrecen espectaculares vistas de la ciudad y oportunidades para realizar caminatas panorámicas. El Jardín Botánico Real y el barrio de The Rocks son perfectos para explorar la historia de la ciudad y disfrutar de eventos culturales. No te pierdas el mercado de Paddington para una experiencia local única.",
+        "puntosDeInteres": [
+            "Ópera de Sídney",
+            "Playa de Bondi",
+            "Puente del Puerto de Sídney",
+            "Jardín Botánico Real",
+            "The Rocks"
+        ]
+    },
+    {
+        "id": 6,
+        "titulo": "Kioto",
+        "descripcion": "Antigua capital de Japón, famosa por sus templos históricos, jardines tradicionales y el santuario Fushimi Inari Taisha.",
+        "imagen": "../../assets/kioto.jpg",
+        "details": "Kioto, la antigua capital de Japón, es conocida por sus templos históricos y su patrimonio cultural. El templo Kinkaku-ji, o el Pabellón Dorado, y el templo Ginkaku-ji, o el Pabellón Plateado, son dos de los templos más emblemáticos. El santuario Fushimi Inari Taisha, con sus miles de puertas torii rojas, es un sitio impresionante para explorar. Los jardines tradicionales y los paseos por los barrios históricos de Gion y Arashiyama ofrecen una experiencia auténtica de la cultura japonesa. Durante la temporada de sakura (floración de cerezo), los parques de Kioto se llenan de belleza natural.",
+        "puntosDeInteres": [
+            "Templo Kinkaku-ji",
+            "Santuario Fushimi Inari Taisha",
+            "Templo Ginkaku-ji",
+            "Barrio de Gion",
+            "Parque Arashiyama"
+        ]
+    },
+    {
+        "id": 7,
+        "titulo": "Barcelona",
+        "descripcion": "Ciudad española famosa por su arquitectura modernista, la Sagrada Familia y sus playas mediterráneas.",
+        "imagen": "../../assets/barcelona.jpg",
+        "details": "Barcelona es conocida por su arquitectura modernista, especialmente la Sagrada Familia y el Parque Güell, diseñados por Antoni Gaudí. La Rambla es una calle vibrante llena de tiendas, restaurantes y artistas callejeros. El Barrio Gótico y el Born ofrecen calles estrechas llenas de historia y cultura. Las playas de Barcelona son perfectas para relajarse y disfrutar del sol mediterráneo. La ciudad también es famosa por su vida nocturna y gastronomía, con tapas, paella y otros platos tradicionales catalanes.",
+        "puntosDeInteres": [
+            "Sagrada Familia",
+            "Parque Güell",
+            "La Rambla",
+            "Barrio Gótico",
+            "Playas de Barcelona"
+        ]
+    },
+    {
+        "id": 8,
+        "titulo": "Estambul",
+        "descripcion": "Ciudad turca que une Europa y Asia, famosa por su rica historia, la Mezquita Azul y el Gran Bazar.",
+        "imagen": "../../assets/estambul.jpg",
+        "details": "Estambul es una ciudad única que se extiende por dos continentes. La Mezquita Azul y la Basílica de Santa Sofía son ejemplos notables de la rica historia religiosa de la ciudad. El Gran Bazar y el Bazar Egipcio son lugares vibrantes para comprar especias, joyas y artesanías. El Palacio Topkapi ofrece una visión de la opulencia de los sultanes otomanos. Los barrios de Sultanahmet y Beyoğlu ofrecen una mezcla de historia y modernidad, con cafés, restaurantes y una animada vida nocturna.",
+        "puntosDeInteres": [
+            "Mezquita Azul",
+            "Basílica de Santa Sofía",
+            "Gran Bazar",
+            "Palacio Topkapi",
+            "Barrio de Sultanahmet"
+        ]
+    },
+    {
+        "id": 9,
+        "titulo": "Río de Janeiro",
+        "descripcion": "Ciudad brasileña conocida por sus playas, el Cristo Redentor y su animado carnaval.",
+        "imagen": "../../assets/rio.jpg",
+        "details": "Río de Janeiro es famosa por sus playas de arena blanca, como Copacabana e Ipanema. El Cristo Redentor, una de las Nuevas Siete Maravillas del Mundo, ofrece vistas panorámicas de la ciudad desde el cerro del Corcovado. El Pan de Azúcar es otro punto de referencia icónico con impresionantes vistas. Río también es conocido por su vibrante carnaval, una celebración llena de música, danza y color. No te pierdas una visita al barrio de Lapa, famoso por sus arcos y su vida nocturna, y una caminata por la floresta de Tijuca, una de las mayores selvas urbanas del mundo.",
+        "puntosDeInteres": [
+            "Cristo Redentor",
+            "Playa de Copacabana",
+            "Pan de Azúcar",
+            "Barrio de Lapa",
+            "Floresta de Tijuca"
+        ]
+    },
+    {
+        "id": 10,
+        "titulo": "Montego Bay",
+        "descripcion": "Principal destino turístico de Jamaica, conocido por sus playas de arena blanca, resorts todo incluido y su vibrante cultura caribeña.",
+        "imagen": "../../assets/montenegro.jpg",
+        "details": "Montego Bay es un popular destino turístico en Jamaica, conocido por sus playas de arena blanca y aguas cristalinas. Los resorts todo incluido ofrecen una experiencia de lujo con acceso a una variedad de actividades acuáticas y gastronómicas. La ciudad también es conocida por su vibrante cultura caribeña, con música reggae en vivo y festividades locales. El mercado de Montego Bay y el Rose Hall ofrecen oportunidades para explorar la cultura y la historia local. No te pierdas la oportunidad de experimentar una excursión a las cascadas del río Dunn o disfrutar de un paseo en bote por la bahía."
+    }
+]

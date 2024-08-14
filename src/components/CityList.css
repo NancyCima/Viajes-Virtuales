@@ -1,0 +1,26 @@
+.main-title {
+    font-size: 2.5rem;
+    text-align: center;
+    color: #071952;
+    font-weight: bolder;
+    margin: 2rem 0;
+    padding: 1rem;
+    border-bottom: 3px solid #071952;
+}
+
+.card-container {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 24px;
+    padding: 1rem;
+}
+
+.no-results {
+    text-align: center;
+    font-size: 18px;
+    color: #666;
+    padding: 20px 0;
+}

@@ -1,0 +1,11 @@
+input[type="email"] {
+    color: #000;
+    background-color: #EBF4F6;
+    border: 2px solid #37B7C3;
+    
+  }
+  
+  input[type="email"]:focus {
+    outline: none;
+    border-color: #088395;
+  }
