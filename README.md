@@ -4,6 +4,8 @@
 
 Este proyecto es una aplicación web interactiva que permite a los usuarios explorar ciudades turísticas de diversos países alrededor del mundo. Los usuarios pueden buscar ciudades, ver detalles sobre cada una, incluyendo descripciones y puntos de interés, y añadir comentarios sobre los lugares que han visitado. La aplicación utiliza un archivo JSON como fuente de datos, proporcionando toda la información necesaria para enriquecer la experiencia del usuario y facilitar la exploración de destinos turísticos.
 
+Puede ver un video del proyecto en este [link](https://www.youtube.com/watch?v=bqJrGCdgwkY)
+
 ## Tecnologías utilizadas 🚀
 
 - **React**: Biblioteca de JavaScript para construir interfaces de usuario.
